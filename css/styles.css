@@ -1,0 +1,16 @@
+h1{
+  color: purple;
+  text-align: center;
+}
+h2{
+  color: orange;
+  font-style: italic;
+}
+p {
+  color: white;
+}
+body {
+  background-color: black;
+  font-family:san-serif;
+  text-align: center;
+}
