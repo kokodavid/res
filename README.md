@@ -3,7 +3,6 @@
 #### By **{David Mochoge}**
 ## Description
 {This is a brief description of the Koko Island Resort. }
-## Setup/Installation Requirements
 * This is a great place
 * Cheap and affordable prices
 * Serene and cool environment
