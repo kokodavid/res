@@ -9,5 +9,5 @@
 {Visit the resort to experience a lifetime pleasure.}
 {For more inquiries call on 0770057240 or email kokoresort@gmail.com}
 ### public
+  <img src="ma.jpg" alt="images>"
 Copyright (c) {2019} **{ kokoislandresort}**
-  
